@@ -1,0 +1,2 @@
+experiment,sequence_length,rul_cap,features,rmse,mae,r2,nasa_score
+baseline_lstm_seq30_cap125,30,125,15,14.923807037063035,11.448375701904297,0.8710267543792725,367.70554

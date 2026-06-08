@@ -1,0 +1,5 @@
+metric,best_experiment,value
+RMSE,gru_engine_val_seq30_cap125,14.32815535114697
+MAE,lstm_engine_val_seq30_cap125,10.460478782653809
+R2,gru_engine_val_seq30_cap125,0.8811166286468506
+NASA Score,lstm_engine_val_seq30_cap125,304.3133239746094

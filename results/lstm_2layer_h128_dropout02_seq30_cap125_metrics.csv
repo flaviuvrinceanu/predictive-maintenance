@@ -1,0 +1,2 @@
+experiment,sequence_length,rul_cap,features,rmse,mae,r2,nasa_score
+lstm_2layer_h128_dropout02_seq30_cap125,30,125,15,14.933654545553727,10.971383094787598,0.8708564639091492,407.17392

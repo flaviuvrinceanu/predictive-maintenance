@@ -1,0 +1,2 @@
+Selected model,Hidden size,Loss,Denoising,Threshold percentile,Precision,Recall,F1-score,ROC AUC,Average Precision
+lstm_autoencoder_strict_hidden32_l1,32,L1,0.0,95,0.9722222222222222,0.9032258064516128,0.9364548494983278,0.9836572128364274,0.9939446922687674

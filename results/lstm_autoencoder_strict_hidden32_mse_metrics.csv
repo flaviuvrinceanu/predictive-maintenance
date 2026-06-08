@@ -1,0 +1,2 @@
+experiment,seq_length,hidden_size,loss,denoising,noise_factor,threshold_percentile,threshold,precision,recall,f1,roc_auc,average_precision,healthy_mean_error,anomalous_mean_error
+lstm_autoencoder_strict_hidden32_mse,30,32,MSE,False,0.0,95,0.013306414,0.9136212624584718,0.2661290322580645,0.41219085685735696,0.789735032981714,0.8950003378870542,0.0065870252,0.011006391
